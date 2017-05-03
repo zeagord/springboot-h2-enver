@@ -1,12 +1,12 @@
 # springboot-h2-enver
 A starter project for Springboot, Spring Data Rest and Hibernate Enver
 
-# BUILD the project
+#### BUILD the project
 ```
 ./gradlew clean build
 ```
 
-# RUN the project
+#### RUN the project
 ```
 ./gradlew bootRun
 ```
